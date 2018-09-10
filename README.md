@@ -1,2 +1,2 @@
 # Ethereum Nodes on AWS
-How to running Ethereum nodes in a secure and scalable maner on AWS
+Running Ethereum nodes as containers, in a secure, highly available and scalable manner inside AWS. We want to provide Infrastructure as code to run multiple Ethereum nodes inside an AWS ECS cluster with multi-AZ, load balancing, AutoScaling and monitoring, in a way that can be easily added to existent architectures. Additionally, we want to demonstrate, in practice, how to address security, performance, deployment speed and reliability of ETH nodes inside AWS. 
